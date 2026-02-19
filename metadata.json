@@ -1,0 +1,9 @@
+{
+  "name": "CivicOS - Almaty Digital Twin",
+  "description": "An AI-powered multi-agent urban management platform focusing on the Al-Farabi corridor in Almaty. Features 2.5D visualization, predictive analytics, and automated problem reporting.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
